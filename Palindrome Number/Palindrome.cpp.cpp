@@ -1,5 +1,5 @@
 /* Que Link: 
-https://leetcode.com/problems/palindrome-number/solution/
+https://leetcode.com/problems/palindrome-number/
 */
 
 
